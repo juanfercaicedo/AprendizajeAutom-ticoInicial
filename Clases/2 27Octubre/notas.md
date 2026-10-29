@@ -51,7 +51,7 @@
   - Instancia son las filas
   - Atributos las columnas
   - Y un un dato en específico es un valor
-- **Conjunto continuo:** 
+- **Conjunto continuo:** Es una colección de valores donde, entre cualquier par de elementos, siempre existe una infinidad de otros elementos intermedios.
 ---
 ## Materiales usados en clase
 - [Resumen material de clase del profesor](https://andres-merino.github.io/AprendizajeAutomaticoInicial-05-N0105/2-Resumenes/Resumen02.pdf)
